@@ -33,7 +33,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> I love Bidemiso so much </h1>
+   <h1> I love Bidemi so so much </h1>
 
   
 </form>
